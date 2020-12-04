@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey, I'm Moaaz GABALLAH 👋
 
-<!--
-**moaazgab/moaazgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer, Data scientist researcher, & Tech Enthusiast
 
-Here are some ideas to get you started:
+I love all things tech. I've been programming since 2015, repairing electronic devices since 10, and founding tech companies since 20. I'm an open source fanatic, Apple fanboy, and love to explore new tech. I spend my time coding open source projects, tinkering with electronics and new tech products, and consulting teams on how to get things done.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-Moaaz_Gaballah-black)](https://github.com/MoaazGaballah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moaaz_Gaballah-blue)](https://www.linkedin.com/in/moaazgaballah/)
+[![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-Moaaz_Gaballah-orange)](https://stackoverflow.com/users/11275490/moaaz-gaballah)
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoaazGaballah&&show_icons=true)](https://github.com/MoaazGaballah)
