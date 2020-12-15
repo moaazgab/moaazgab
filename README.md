@@ -7,6 +7,7 @@ I love all things tech. I've been programming since 2015, repairing electronic d
 [![GitHub](https://img.shields.io/badge/GitHub-Moaaz_Gaballah-black)](https://github.com/MoaazGaballah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moaaz_Gaballah-blue)](https://www.linkedin.com/in/moaazgaballah/)
 [![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-Moaaz_Gaballah-orange)](https://stackoverflow.com/users/11275490/moaaz-gaballah)
+[![Twitter](https://img.shields.io/badge/Twitter-gaballah_moaaz-blue)](https://twitter.com/gaballah_moaaz)
 [![Twitter](https://img.shields.io/twitter/url.svg?label=Follow%20%40moaazgaballah&style=social&url=https%3A%2F%2Ftwitter.com%2Fmoaazgaballah)](https://twitter.com/gaballah_moaaz)
 
 ## GitHub Stats
