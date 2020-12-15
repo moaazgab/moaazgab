@@ -10,4 +10,4 @@ I love all things tech. I've been programming since 2015, repairing electronic d
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoaazGaballah&&show_icons=true)](https://github.com/MoaazGaballah)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoaazGaballah&&show_icons=true)](https://github.com/MoaazGab)
